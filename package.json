@@ -1,0 +1,21 @@
+{
+  "name": "Christian MC Server",
+  "version": "1.0.0",
+  "description": "A Christian MC Server",
+  "main": "java -Xmx1024M -jar bukkit.jar -o true PAUSE",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "java -Xmx1024M -jar bukkit.jar -o true PAUSE"
+  },
+  "engines": {
+    "java": "8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatMajesticGuy/christian-minecraft-server.git"
+  },
+  "author": "The Idiot's Guide Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThatMajesticGuy/christian-minecraft-server/issues"
+  }
